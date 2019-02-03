@@ -1,4 +1,4 @@
 def square_array(array)
-
-array.each{|array| array.sqrt}
+  number = []
+array.each{|array| math.squrt(array)}
 end 
