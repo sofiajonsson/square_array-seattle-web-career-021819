@@ -1,4 +1,3 @@
-def square_array(array)
-  number = []
-array.each{|array| math.squrt(array)}
+def square_array(numbers)
+numbers.each{|numbers| math.squrt(numbers)}
 end 
