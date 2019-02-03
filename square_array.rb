@@ -1,3 +1,4 @@
 def square_array(array)
-math.sqrt(array)
+  numbers = []
+array.each(numbers**)
 end 
