@@ -1,3 +1,3 @@
 def square_array(numbers)
-numbers.each{|numbers| math.squrt(numbers)}
+numbers.each{|numbers| numbers ** numbers}
 end 
