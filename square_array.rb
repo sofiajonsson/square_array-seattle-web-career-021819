@@ -1,3 +1,3 @@
 def square_array(array)
-  array.each(math.sqrt)# your code here
+  array.each**# your code here
 end
