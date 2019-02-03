@@ -1,5 +1,5 @@
 def square_array(numbers)
-  numbers = []
+  numbers = [1, 2, 3]
 # numbers.each
 Math.sqrt(numbers)
 end 
